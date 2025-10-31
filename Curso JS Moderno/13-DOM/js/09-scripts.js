@@ -1,0 +1,1 @@
+// Eliminar elementtos del DOM
