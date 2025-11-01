@@ -28,5 +28,8 @@ nav.addEventListener('mousedown', () => {
 
 nav.addEventListener('mouseup', () => {
     console.log('el click esta up');
-    
+});
+
+nav.addEventListener('dblclick', () => {
+    console.log('diste doble click');
 });
